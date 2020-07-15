@@ -1,3 +1,2 @@
 # Python-Projects
-
-Applied ML projects
+Help Jupyter Notebooks with basic code on it
